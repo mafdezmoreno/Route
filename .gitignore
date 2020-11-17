@@ -1,0 +1,6 @@
+*.swp
+*.o
+build/
+vcpkg/
+.vscode/
+P0267_RefImpl/
